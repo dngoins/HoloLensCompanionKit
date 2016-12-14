@@ -1,0 +1,11 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(40): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  KinectRgbCommand.cpp
+  NuiSensor.cpp
+  Generating Code...
+  Helpers.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  NuiSensor.vcxproj -> C:\Users\dngoins\Source\Repos\Dngoins\HoloLensCompanionKit\KinectIPD\x64\Release\NuiSensor.dll
+  NuiSensor.vcxproj -> C:\Users\dngoins\Source\Repos\Dngoins\HoloLensCompanionKit\KinectIPD\x64\Release\NuiSensor.pdb (Full PDB)
